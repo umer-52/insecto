@@ -78,7 +78,7 @@ export function Navbar() {
           <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-green-500 text-sm font-black text-white shadow-lg shadow-green-500/20 transition-all group-hover:bg-green-600 group-hover:shadow-green-500/30">
             I
           </span>
-          <span className="hidden sm:inline">
+          <span>
             Insecto<span className="text-green-600">.</span>
           </span>
         </Link>
