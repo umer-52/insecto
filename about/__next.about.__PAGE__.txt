@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[37757,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0.c_zcoq4h82q.js"],"PageHeader"]
+3:I[85668,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0.c_zcoq4h82q.js"],"WhyChooseUs"]
+4:I[1388,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0.c_zcoq4h82q.js"],"Testimonials"]
+5:I[86142,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0.c_zcoq4h82q.js"],"ServiceAreas"]
+6:I[56572,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0.c_zcoq4h82q.js"],"CTASection"]
+7:I[97367,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"eyebrow":"About","title":"A premium, safety-first pest control team","description":"We deliver inspection-led fumigation and pest control services with certified products, trained technicians, and clear follow-up support."}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]],[["$","script","script-0",{"src":"/insecto/_next/static/chunks/0.c_zcoq4h82q.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BrbLDMs1Ru-Nyslk18BIy"}
+9:null

@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[37757,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0a682zo0-nsc_.js"],"PageHeader"]
+3:I[84718,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0a682zo0-nsc_.js"],"Services"]
+4:I[1388,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0a682zo0-nsc_.js"],"Testimonials"]
+5:I[56572,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js","/insecto/_next/static/chunks/0a682zo0-nsc_.js"],"CTASection"]
+6:I[97367,["/insecto/_next/static/chunks/0gaa4bdaak97j.js","/insecto/_next/static/chunks/01f9fub1v2m6x.js","/insecto/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"eyebrow":"Services","title":"Professional pest control services","description":"Explore our most requested treatments for homes, offices, and industrial sites—each backed by inspection and follow-up support."}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]],[["$","script","script-0",{"src":"/insecto/_next/static/chunks/0a682zo0-nsc_.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BrbLDMs1Ru-Nyslk18BIy"}
+8:null
